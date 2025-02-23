@@ -1,0 +1,4 @@
+simple_salesforce
+slack_sdk
+groq
+python-dotenv
